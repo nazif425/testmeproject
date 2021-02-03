@@ -1,0 +1,18 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [example.com] Please Confirm Your E-mail Address
+From: webmaster@localhost
+To: mnbnbv@gmail.com
+Date: Wed, 27 Jan 2021 15:58:22 -0000
+Message-ID: <161176310280.12104.10778441397478490716@MUSA>
+
+Hello from example.com!
+
+You're receiving this e-mail because user uuyytt has given yours as an e-mail address to connect their account.
+
+To confirm this is correct, go to http://localhost:8000/rest-auth/registration/account-confirm-email/MjI:1l4nD4:7ygf6feF6ISZrg_aCWR1U-saskk/
+
+Thank you from example.com!
+example.com
+-------------------------------------------------------------------------------

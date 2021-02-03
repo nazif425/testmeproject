@@ -1,0 +1,7 @@
+// base styles
+@import "./custom-var.scss";
+@import "vue-sidebar-menu/src/scss/_base.scss";
+
+// themes
+@import "./themes/default-theme";
+@import "vue-sidebar-menu/src/scss/themes/white-theme";

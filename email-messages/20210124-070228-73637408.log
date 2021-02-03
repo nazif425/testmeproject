@@ -1,0 +1,18 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [example.com] Please Confirm Your E-mail Address
+From: webmaster@localhost
+To: dedf@de.com
+Date: Sun, 24 Jan 2021 06:02:28 -0000
+Message-ID: <161146814891.13264.5443343487174158033@MUSA>
+
+Hello from example.com!
+
+You're receiving this e-mail because user jkjk has given yours as an e-mail address to connect their account.
+
+To confirm this is correct, go to http://localhost:8000/rest-auth/registration/account-confirm-email/MTE:1l3YTk:R49XDaWLGFsXnEvDRvUJnYE70OI/
+
+Thank you from example.com!
+example.com
+-------------------------------------------------------------------------------

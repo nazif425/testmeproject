@@ -1,0 +1,18 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [example.com] Please Confirm Your E-mail Address
+From: webmaster@localhost
+To: abdulnazifmail64@gmail.com
+Date: Mon, 21 Dec 2020 22:19:54 -0000
+Message-ID: <160858919499.5820.641641342613431110@MUSA>
+
+Hello from example.com!
+
+You're receiving this e-mail because user newuser3 has given yours as an e-mail address to connect their account.
+
+To confirm this is correct, go to http://localhost:8000/rest-auth/registration/account-confirm-email/OA:1krTX0:bHFqrAfNcaoaQhvD27Dt0JIbSLw/
+
+Thank you from example.com!
+example.com
+-------------------------------------------------------------------------------
